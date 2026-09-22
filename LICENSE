@@ -1,0 +1,36 @@
+LUNA AiNinaBridge2 — Freeware License
+
+Copyright (c) 2026 Nishioka Sadahiko. All rights reserved.
+
+PERMITTED, free of charge, no registration or payment required:
+- Downloading and running this software, in unmodified form, for your own
+  personal or organizational astronomy use.
+
+NOT PERMITTED without the author's prior written permission:
+- Redistributing, rehosting, mirroring, or bundling this software (in
+  original or modified form) anywhere other than the author's own official
+  release page.
+- Selling this software, or any modified, rebranded, or repackaged version
+  of it.
+- Reverse-engineering, decompiling, or disassembling this software in order
+  to build a competing or redistributed product from it.
+- Removing or altering this notice, the PROTOTYPE warning, or the author
+  attribution shown by the software or its start screen.
+
+⚠ PROTOTYPE SOFTWARE: this is an early prototype released to gather
+feedback. It may not work correctly and may behave unexpectedly, including
+with connected hardware (telescope mount, camera, focuser, filter wheel).
+Automatic imaging must be supervised: stay with the equipment and be ready
+to cut power. Unattended operation is not supported.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+USE OF THIS SOFTWARE, INCLUDING DAMAGE TO EQUIPMENT. YOU USE IT ENTIRELY AT
+YOUR OWN RISK.
+
+-------------------------------------------------------------------------------
+This software bridges to N.I.N.A. (nighttime-imaging.eu), a separate,
+independently licensed application, and uses several open-source components
+under their own licenses — see THIRD_PARTY_LICENSES.md.
